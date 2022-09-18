@@ -12,3 +12,4 @@
 4. 每次比对只需要改动wt内的模板序列和sequence内的测序结果，result内的结果照片会在比对开始自动清空
 
 ![image](https://user-images.githubusercontent.com/113836412/190904212-6efd6790-153a-4b71-a174-9cb04ca284bc.png)
+![image](https://user-images.githubusercontent.com/113836412/190904381-403f7238-171b-4552-9dd9-3b486d41d986.png)
