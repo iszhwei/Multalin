@@ -13,3 +13,11 @@
 
 ![image](https://user-images.githubusercontent.com/113836412/190904212-6efd6790-153a-4b71-a174-9cb04ca284bc.png)
 ![image](https://user-images.githubusercontent.com/113836412/190904381-403f7238-171b-4552-9dd9-3b486d41d986.png)
+## 注意：
+1. 有小伙伴问我模板(wt文件夹下)格式是什么样的
+```
+//template.txt	注意内容为fasta格式
+>tempalteName   
+ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATC
+```
+2. 如果软件出问题，说明服务器出现了问题，请隔几天再尝试
